@@ -4,10 +4,12 @@
 
 ### Step 2: Dependencies (with Azur Daemon & Blockchain Import)
 
+     chmod +x dep.sh
     ./dep.sh
     
 ### Step 3:  Build
 
+    chmod +x build.sh
     ./build.sh
     
 ### Step 4: Run Deamon
