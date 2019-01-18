@@ -7,6 +7,6 @@ wget https://getazur.org/blockchain.tar.gz
 tar -xvf linux-cli.tar.gz
 tar -xvf blockchain.tar.gz
 rm linux-cli.tar.gz blockchain.tar.gz
-mv linux-cli/azurd ~/
+mv linux-cli/azurd /usr/bin
 mv root/blockchain/.Azur ~/
 rm -r linux-cli root
