@@ -1,8 +1,8 @@
-### Step 1: Install dependencies
+### Step 1: Clone Repo
 
     git clone https://github.com/getazur/azur-webwallet-js.git azurwallet && cd azurwallet
 
-### Step 2: Dependencies
+### Step 2: Dependencies (with Azur Deamon & Blockchain Import)
 
     ./dep.sh
     
