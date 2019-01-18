@@ -10,7 +10,13 @@
 
     ./build.sh
     
-### Step 4: Run
+### Step 4: Run Deamon
+
+    cd
+    ./azurd --enable-blockexplorer --enable-cors "*" --rpc-bind-ip 0.0.0.0'
     
-    cd bin/Release/netcoreapp2.1/publish
+### Step 5: Run Wallet
+    
+    cd azurwallet/bin/Release/netcoreapp2.1/publish
     dotnet WebWallet.dll
+    
