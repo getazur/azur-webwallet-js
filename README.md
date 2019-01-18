@@ -2,7 +2,7 @@
 
     git clone https://github.com/getazur/azur-webwallet-js.git azurwallet && cd azurwallet
 
-### Step 2: Dependencies (with Azur Deamon & Blockchain Import)
+### Step 2: Dependencies (with Azur Daemon & Blockchain Import)
 
     ./dep.sh
     
