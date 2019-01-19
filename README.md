@@ -1,3 +1,5 @@
+# UBUNTU 18.04 LTS
+
 ### Step 1: Clone Repo
 
     git clone https://github.com/getazur/azur-webwallet-js.git azurwallet && cd azurwallet
