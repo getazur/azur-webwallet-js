@@ -1,6 +1,6 @@
 let global : any = typeof window !== 'undefined' ? window : self;
 global.config = {
-    apiUrl: typeof window !== 'undefined' && window.location ? window.location.href.substr(0, window.location.href.lastIndexOf('/') + 1) + 'api/' : 'http://http://35.199.60.49/api/',
+    apiUrl: typeof window !== 'undefined' && window.location ? window.location.href.substr(0, window.location.href.lastIndexOf('/') + 1) + 'api/' : 'http://webwallet.getazur.org/api/',
     mainnetExplorerUrl: "https://explorer.getazur.org/",
     testnetExplorerUrl: "https://testnet.getazur.org/",
     testnet: false,
